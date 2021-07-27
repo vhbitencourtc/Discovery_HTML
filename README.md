@@ -5,9 +5,6 @@
 O curso foi desenvolvido com a linguagem:
 - ``HTML``
 
-Utilitários
-- [Bing Imagens](https://www.bing.com/?scope=images&nr=1&FORM=NOFORM)
-
 ## :memo:Linha do Tempo
 - [Capitulo 1: Conceitos](https://github.com/vhbitencourtc/Discovery_HTML/blob/main/conceitos.html)
   - [Exercícios - Conceitos](https://github.com/vhbitencourtc/Discovery_HTML/blob/main/ex_conceitos.html)
