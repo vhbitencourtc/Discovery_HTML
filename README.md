@@ -8,7 +8,12 @@ O curso foi desenvolvido com a linguagem:
 Utilitários
 - [Bing Imagens](https://www.bing.com/?scope=images&nr=1&FORM=NOFORM)
 
-## :computer:Projeto
+## :memo:Linha do Tempo
+- [Capitulo 1: Conceitos](https://github.com/vhbitencourtc/Discovery_HTML/blob/main/conceitos.html)
+  - [Exercícios - Conceitos](https://github.com/vhbitencourtc/Discovery_HTML/blob/main/ex_conceitos.html)
+
+
+## :computer:Curso
 Repositório criado para armazenamento das aulas e práticas aprendidas no Discovery da RocketSeat.
 > Com mentoria do `Maky brito`
 
