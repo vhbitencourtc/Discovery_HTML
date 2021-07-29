@@ -10,6 +10,7 @@ O curso foi desenvolvido com a linguagem:
   - [Exercícios - Conceitos](https://github.com/vhbitencourtc/Discovery_HTML/blob/main/ex_conceitos.html)
 - [Capitulo 2: Trabalhando com Elementos](https://github.com/vhbitencourtc/Discovery_HTML/blob/main/workelements.html)
 - [Capitulo 3: Links](https://github.com/vhbitencourtc/Discovery_HTML/blob/main/links.html)
+  - [Exercícios - Links](https://github.com/vhbitencourtc/Discovery_HTML/blob/main/ex_links_index.html) 
 
 ## :computer:Curso
 Repositório criado para armazenamento das aulas e práticas aprendidas no Discovery da RocketSeat.
