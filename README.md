@@ -15,6 +15,8 @@ O curso foi desenvolvido com a linguagem:
     - [Exercícios - Links: Contatos](https://github.com/vhbitencourtc/Discovery_HTML/blob/main/ex_links_contact.html)
     - [Exercícios - Links: Imagens](https://github.com/vhbitencourtc/Discovery_HTML/blob/main/ex_links_files/ex_links_images.html)
 
+- [Capitulo 4: Tabelas](https://github.com/vhbitencourtc/Discovery_HTML/blob/main/tabelas.html)
+
 ## :computer:Curso
 Repositório criado para armazenamento das aulas e práticas aprendidas no Discovery da RocketSeat.
 > Com mentoria do `Maky brito`
