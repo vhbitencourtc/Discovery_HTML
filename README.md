@@ -5,7 +5,7 @@
 O curso foi desenvolvido com a linguagem:
 - ``HTML``
 
-## :memo:Linha do Tempo
+## :memo:Linha de Aprendizagem
 - [Capitulo 1: Conceitos](https://github.com/vhbitencourtc/Discovery_HTML/blob/main/conceitos.html)
   - [Exercícios - Conceitos](https://github.com/vhbitencourtc/Discovery_HTML/blob/main/ex_conceitos.html)
 - [Capitulo 2: Trabalhando com Elementos](https://github.com/vhbitencourtc/Discovery_HTML/blob/main/workelements.html)
