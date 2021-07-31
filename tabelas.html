@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>HTML - Tabelas</title>
+</head>
+
+<!--TABELAS-->
+<!--Tabela Básica-->
+<!--Organizando Tabelas-->
+
+<body>
+  <table>
+    <caption>People and Years</caption>
+    <thead>
+      <tr>
+        <th>Nome</th>
+        <th>Idade</th>
+        <th>Classe</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      <tr>
+        <th>Victor</th>
+        <th>28</th>
+        <th>2</th>
+      </tr>
+
+      <tr>
+        <th>Pedro</th>
+        <th>18</th>
+        <th>1</th>
+      </tr>
+    </tbody>
+
+    <tfoot>
+      <tr>
+        <th>Total:</th>
+        <th>46</th>
+        <th>3</th>
+      </tr>
+    </tfoot>
+  </table>
+  <br>
+
+  <!--Tabela Complexa-->
+  <table>
+    <caption><strong>Produzido X Vendidos por Loja</strong></caption>
+
+    <colgroup>
+      <col>
+      <col align="center" span="2" style="background-color: red">
+      <col align="center" span="2" style="background-color: blue;">
+    </colgroup>
+    <thead>
+      <tr>
+        <th rowspan="2"></th>
+        <th colspan="2" scope="colgroup">Victor Hugo</th>
+        <th colspan="2" scope="colgroup">Penelope Rosa</th>
+      </tr>
+
+      <tr align="center">
+        <th scope="col">Produzidos</th>
+        <th scope="col">Vendidos</th>
+        <th scope="col">Produzidos</th>
+        <th scope="col">Vendidos</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      <tr align="center">
+        <th scope="row">Vassouras</th>
+        <td>30</td>
+        <td>60</td>
+        <td>10</td>
+        <td>20</td>
+      </tr>
+      <tr align="center">
+        <th>Baldes</th>
+        <td>50</td>
+        <td>15</td>
+        <td>35</td>
+        <td>11</td>
+      </tr>
+    </tbody>
+
+    <tfoot>
+
+    </tfoot>
+
+
+
+  </table>
+
+</body>
+
+</html>
