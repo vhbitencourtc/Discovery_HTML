@@ -10,8 +10,10 @@ O curso foi desenvolvido com a linguagem:
   - [Exercícios - Conceitos](https://github.com/vhbitencourtc/Discovery_HTML/blob/main/ex_conceitos.html)
 - [Capitulo 2: Trabalhando com Elementos](https://github.com/vhbitencourtc/Discovery_HTML/blob/main/workelements.html)
 - [Capitulo 3: Links](https://github.com/vhbitencourtc/Discovery_HTML/blob/main/links.html)
-   - [Exercícios: Links: Início](https://github.com/vhbitencourtc/Discovery_HTML/blob/main/ex_links_index.html)
-     -[Exercícios: Links: Contatos](https://github.com/vhbitencourtc/Discovery_HTML/blob/main/ex_links_contact.html) 
+   - [Exercícios: Links: Início]()
+     - [Exercícios: Links: Início](https://github.com/vhbitencourtc/Discovery_HTML/blob/main/ex_links_index.html) 
+     - [Exercícios: Links: Contatos](https://github.com/vhbitencourtc/Discovery_HTML/blob/main/ex_links_contact.html) 
+     - [Exercícios: Links: Imagens](https://github.com/vhbitencourtc/Discovery_HTML/blob/main/ex_links_contact.html) 
 - [Capitulo 4: Tabelas](https://github.com/vhbitencourtc/Discovery_HTML/blob/main/tabelas.html)
 - [Capitulo 5: Cabeçalho](https://github.com/vhbitencourtc/Discovery_HTML/blob/main/header.html)
 
