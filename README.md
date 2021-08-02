@@ -16,6 +16,10 @@ O curso foi desenvolvido com a linguagem:
     - [Exercícios - Links: Imagens](https://github.com/vhbitencourtc/Discovery_HTML/blob/main/ex_links_files/ex_links_images.html)
 
 - [Capitulo 4: Tabelas](https://github.com/vhbitencourtc/Discovery_HTML/blob/main/tabelas.html)
+- [Capitulo 5: Cabeçalho](https://github.com/vhbitencourtc/Discovery_HTML/blob/main/tabelas.html)
+
+## :sparkles:Curso Completo
+- [Discover Rocketseat](https://app.rocketseat.com.br/discover/courses/track/guias-estelares)
 
 ## :computer:Curso
 Repositório criado para armazenamento das aulas e práticas aprendidas no Discovery da RocketSeat.
